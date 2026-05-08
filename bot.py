@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from dedalus_labs import AsyncDedalus, DedalusRunner
 
 # 1. API Keys (Ivide ningalude keys nalkuka)
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TELEGRAM_BOT_TOKEN = "8708879724:AAHIj2riGN3_JT1i9W6uihzlw25SUxo7Lb8"
 DEDALUS_API_KEY = "dsk-test-775d591fed32-3c896b1a4e10701a880b60017a3d33a1"
 
 # 2. Setup AI Client
