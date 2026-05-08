@@ -1,0 +1,3 @@
+aiogram
+dedalus-labs
+asyncio
